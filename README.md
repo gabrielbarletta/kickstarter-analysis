@@ -10,7 +10,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes_vs_Goals.png](path/to/image_name.png)
+![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png)
 For this analysis, I used data from a sample of 4113 different fundraisers. The data was sorted and filtered to meet our client’s needs. By using pivot tables, I sorted the data and created a linear graph based on the launch date. I performed this analysis to identify the relation between the launch date and the outcomes of the campaigns.
 ### Analysis of Outcomes Based on Goals
 
