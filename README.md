@@ -10,8 +10,10 @@ Performing analysis on Kickstarter data to uncover trends
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Using pivot tables, I sorted the data and created a linear graph based on the launch date. I performed this analysis to identify the relation between the launch date and the outcomes of the campaigns. I created a linear graph to see the direct relationship between the two (launch dates and outcomes).  This analysis suggests that there is a significant association between the launch dates and their outcomes. The chart indicates that a campaign launched in May, June, or July has a greater success rate than the rest of the months. The data suggest that a campaign launched in December has a 43% chance of failure.
+Using pivot tables, I sorted the data and created a linear graph based on the launch date. I performed this analysis to identify the relation between the launch date and the outcomes of the campaigns. I created a linear graph to see the direct relationship between the two. This analysis suggests that there is a significant association between the launch dates and their outcomes. The chart indicates that a campaign launched in May, June, or July has a greater success rate than the rest of the months. The data suggest that a campaign launched in December has a 43% chance of failure.
+
 ### Analysis of Outcomes Based on Goals
+This analysis suggests that a campaign with a goal of less than $1000 and no more than $5000 has a high success rate of 73%-76%. The graph also reveals that a campaign with a goal of $50000 or more has a fail rate of 83%.
 
 ### Challenges and Difficulties Encountered
 
