@@ -13,8 +13,11 @@ Performing analysis on Kickstarter data to uncover trends
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92552837/138784522-618a4710-f98b-48c7-acdf-416ec7f10d55.png)
 
 For this analysis, I used data from a sample of 4113 different fundraisers. The data was sorted and filtered to meet our client’s needs. By using pivot tables, I sorted the data and created a linear graph based on the launch date. I performed this analysis to identify the relation between the launch date and the outcomes of the campaigns.
+
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/92552837/138784802-21aa2425-6185-4c44-bf24-e62290f009c3.png)
+
+For this analysis, I created a graph to visualize the percentage of successful, failed and canceled plays in relation to the funding goal amount.
 
 ### Challenges and Difficulties Encountered
 
